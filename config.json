@@ -1,0 +1,27 @@
+{
+  "resize_w_h": 200,
+  "camera_number": 0,
+  "save_to": {
+    "ahad": "..\\data\\ahad\\",
+    "ahmad": "..\\data\\ahmad\\",
+    "hammad": "..\\data\\hammad\\"
+  },
+  "raw": {
+    "ahad": "..\\raw\\ahad.mp4",
+    "ahmad": "..\\raw\\ahmad.mp4",
+    "hammad": "..\\raw\\hammad.mp4"
+  },
+  "members": [
+    "ahad",
+    "ahmad",
+    "hammad"
+  ],
+  "model_path": "..\\saved\\model\\",
+  "model_file": ".\\saved\\model\\model.joblib",
+  "features_path": "..\\saved\\dataset\\features.joblib",
+  "labels_path": "..\\saved\\dataset\\labels.joblib",
+  "hc_path": "..\\helpers\\haarcascade_frontalface_default.xml",
+  "eye_cascade": "..\\helpers\\haarcascade_eye.xml",
+  "clf_file": ".\\saved\\model\\",
+  "dataset_dir": "..\\saved\\dataset"
+}
